@@ -51,18 +51,6 @@ table {
 /*begin css*/
 
 
-@font-face{
-    font-family: 'zetafonts';
-    src: url('mind/fonts/Zetafonts - Quarantype Chillout Regular.otf')
-        format('otf)';
-}
-
-
-@font-face{
-    font-family: 'pixel';
-    src: url('fonts/Pixeboy-z8XGD.ttf') format('ttf');
-}
-
 body{
   background-image: linear-gradient(0deg,  #ffe6ff, #b34700);
     background-position: center;
